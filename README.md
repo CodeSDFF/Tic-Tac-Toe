@@ -15,5 +15,7 @@ First project for bootcamp
 - Use double for loop for checking rows and columns.
 - Store symbols and messages in a array.
 - See results section for visual.
+
+-----------
 ![Screenshot](https://github.com/IrinaSerova/GameTTT/blob/master/src/main/resources/ticTacToeScreenShot.png)
 
